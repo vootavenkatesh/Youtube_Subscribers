@@ -1,0 +1,21 @@
+{
+  "name": "get-youtube-subs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "nodemon index.js"
+  },
+  "author": "Dharani",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "send": "^0.18.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}

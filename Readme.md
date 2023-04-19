@@ -81,7 +81,7 @@ video link
 ### DEPLOYMENT:
 -------
 
-https://youtube-subscribers-887oun4qr-vootavenkatesh.vercel.app/
+https://youtube-subscribers-phi.vercel.app/
 
 ## 🛠 skills
 |MongoDB |Node.js |express.js |Mongoose
